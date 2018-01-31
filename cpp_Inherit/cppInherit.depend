@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1517348324 source:c:\users\rohit\desktop\cppinherit\daughter.cpp
+	<iostream>
+	"Daughter.h"
+	"Mother.h"
+
+1517348343 c:\users\rohit\desktop\cppinherit\daughter.h
+	"Mother.h"
+
+1517348224 c:\users\rohit\desktop\cppinherit\mother.h
+
+1517348267 source:c:\users\rohit\desktop\cppinherit\mother.cpp
+	<iostream>
+	"Daughter.h"
+	"Mother.h"
+
+1517347516 source:c:\users\rohit\desktop\cppinherit\main.cpp
+	<iostream>
+	"Daughter.h"
+	"Mother.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517344514 source:c:\users\rohit\desktop\cpp_prac\main.cpp
+	<iostream>
+	"testClass.h"
+
+1517344880 c:\users\rohit\desktop\cpp_prac\testclass.h
+	<iostream>
+
+1517344459 source:c:\users\rohit\desktop\cpp_prac\testclass.cpp
+	<iostream>
+	"testClass.h"
+

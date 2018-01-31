@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1517352554 source:c:\users\rohit\desktop\cpp_polymorph\main.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+
+1517352503 c:\users\rohit\desktop\cpp_polymorph\shape.h
+
+1517352765 c:\users\rohit\desktop\cpp_polymorph\rectangle.h
+	"Shape.h"
+
+1517352542 source:c:\users\rohit\desktop\cpp_polymorph\shape.cpp
+	<iostream>
+	"Shape.h"
+
