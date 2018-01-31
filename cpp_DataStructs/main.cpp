@@ -15,7 +15,6 @@ int main()
     listLL->insertNode(55);
     listLL->printData();
     listLL->deleteNode(55);
-    cout << "Deleting Node" << endl;
     listLL->printData();
     delete listLL;
     return 0;

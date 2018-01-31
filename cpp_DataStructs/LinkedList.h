@@ -7,15 +7,16 @@ class LinkedList
     public:
         LinkedList();
         ~LinkedList();
-        int lengthLL;
         Node *headNode;
         void insertNode(int );
         void deleteNode(int );
         void printData();
+        int getLength();
 
     protected:
 
     private:
+        int lengthLL;
 };
 
 #endif // LINKEDLIST_H

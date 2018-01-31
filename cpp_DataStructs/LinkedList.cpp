@@ -72,6 +72,11 @@ void LinkedList::deleteNode(int dToDelete)
     cout << "Node with data = " << dToDelete << " Not found" << endl;
 }
 
+int LinkedList::getLength()
+{
+    return lengthLL;
+}
+
 LinkedList::~LinkedList()
 {
     cout << "Linked List Destroyed" << endl;
