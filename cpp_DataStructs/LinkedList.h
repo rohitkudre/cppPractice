@@ -10,7 +10,7 @@ class LinkedList
         int lengthLL;
         Node *headNode;
         void insertNode(int );
-//        void deleteNode(int );
+        void deleteNode(int );
         void printData();
 
     protected:
