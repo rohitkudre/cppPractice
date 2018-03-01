@@ -12,5 +12,5 @@ Triangle::Triangle(int x, int y):Shape(x, y)
 int Triangle::findArea()
 {
     cout << "The area of Triangle is: " << endl;
-    return((width * height) / 2);
+    return((getWidth()*getHeight()) / 2);
 }

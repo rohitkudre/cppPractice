@@ -13,3 +13,32 @@
 	<iostream>
 	"Shape.h"
 
+1519855278 source:g:\education\tutorials\c++\cpppractice\cpp_polymorph\shape.cpp
+	<iostream>
+	"Shape.h"
+
+1519858378 g:\education\tutorials\c++\cpppractice\cpp_polymorph\shape.h
+
+1519857985 source:g:\education\tutorials\c++\cpppractice\cpp_polymorph\triangle.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+	"Triangle.h"
+
+1519858023 g:\education\tutorials\c++\cpppractice\cpp_polymorph\rectangle.h
+	"Shape.h"
+
+1519858022 g:\education\tutorials\c++\cpppractice\cpp_polymorph\triangle.h
+	"Shape.h"
+
+1519857459 source:g:\education\tutorials\c++\cpppractice\cpp_polymorph\main.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+	"Triangle.h"
+
+1519857966 source:g:\education\tutorials\c++\cpppractice\cpp_polymorph\rectangle.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+

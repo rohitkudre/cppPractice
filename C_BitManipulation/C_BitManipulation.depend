@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517886403 source:g:\education\tutorials\c++\cpppractice\c_bitmanipulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

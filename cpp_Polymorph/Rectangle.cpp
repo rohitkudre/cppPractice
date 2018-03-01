@@ -11,5 +11,5 @@ Rectangle::Rectangle(int x, int y):Shape(x, y)
 int Rectangle::findArea()
 {
     cout << "The area of Rectangle is: " << endl;
-    return (width*height);
+    return (getWidth()*getHeight());
 }

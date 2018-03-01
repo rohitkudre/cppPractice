@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517605542 source:/media/rohit/RohitData/Education/Tutorials/C++/cppPractice/cpp_MultithreadingNew/main.cpp
+	<iostream>
+	<pthread.h>
+	<unistd.h>
+	"ptTest.h"
+
+1517607608 /media/rohit/RohitData/Education/Tutorials/C++/cppPractice/cpp_MultithreadingNew/ptTest.h
+	<pthread.h>
+
